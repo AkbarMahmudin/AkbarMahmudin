@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AkbarMahmudin
 - 👀 I’m interested in website development
 - 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on dev himarpl
 - 📫 How to reach me :
 
   | Email  | akbarmahmudin7@gmail.com |
